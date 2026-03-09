@@ -27,8 +27,6 @@
 |:---:|:---:|:---:|
 | ![Oyun Detayı 1](screenshots/oyundetayi_1.png) | ![Oyun Detayı 2](screenshots/oyundetayi_2.png) | ![Oyun Detayı 3](screenshots/oyundetayi_3.png) |
 
-> 📁 Görselleri `screenshots/` klasörüne koyarak aktif edebilirsiniz.
-
 ---
 
 ## ✨ Özellikler
